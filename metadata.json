@@ -1,0 +1,7 @@
+{
+  "name": "Nexus V2 - Audio Experience",
+  "description": "An interactive audio-visual experience explaining the Nexus V2 architecture, featuring a context-aware AI companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
